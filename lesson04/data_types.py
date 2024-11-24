@@ -80,7 +80,7 @@ print("")
 print(first[1])
 print(first[-1])
 print(first[1:-1])
-print(first[1:])
+print(first[0:])
 
 # Some methods return boolean data
 print(first.startswith("D"))
